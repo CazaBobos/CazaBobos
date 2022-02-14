@@ -20,12 +20,13 @@ I have a bilingual level between english and spanish, and I also speak between b
 * Frontend:
   - HTML/Js
   - ReactJs.
+  - Blazor/Razor Pages
   - WinForms.
   - Java Swing.
 
 * Backend:
   - .NET w/C# & Visual Basic.
-  - Java Springboot.
+  - Spring Web w/ Java.
   - Node.js w/Express.
 
 * DataBases:
