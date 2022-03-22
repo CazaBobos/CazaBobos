@@ -3,7 +3,7 @@
 Hi! Im Santiago, and I'm a Junior Software Developer and Software Engineering Student \
 with knowledge on both desktop and fullstack web applications, Software QA and Automation.
 
-I'm currently in Vates Software as a consultant for Claro, primarily working with Java Backend \
+I'm currently in Vates Software as a consultant for Claro, primarily working with Java Backend. \
 Aside from that, I also work on some personal projects, both for learning and commercial purposes.
 
 I have a bilingual level between english and spanish, and I also speak between basic and intermediate german and portuguese.
