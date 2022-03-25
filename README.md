@@ -6,7 +6,7 @@ with knowledge on both desktop and fullstack web applications, Software QA and A
 I'm currently in Vates Software as a consultant for Claro, primarily working with Java Backend. \
 Aside from that, I also work on some personal projects, both for learning and commercial purposes.
 
-I have a bilingual level between english and spanish, and I also speak between basic and intermediate german and portuguese.
+I'm bilingual in english and spanish, and I also speak between basic and intermediate german and portuguese.
 
 ### Interests...
 - Programming.
