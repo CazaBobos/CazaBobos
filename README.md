@@ -1,6 +1,6 @@
 ## CazaBobos - Software Dev
 ### About Me...
-Hi! Im Santiago, and I'm a Junior Software Developer and Software Engineering Student \
+Hi! Im Santiago, a Junior Software Developer and Software Engineering Student
 with knowledge on both desktop and fullstack web applications, Software QA and Automation.
 
 I'm currently in Vates Software as a consultant for Claro, primarily working with Java Backend. \
@@ -25,18 +25,19 @@ I'm bilingual in english and spanish, and I also speak between basic and interme
   - Java Swing.
 
 * Backend:
-  - .NET w/C# & Visual Basic.
-  - Spring Web w/ Java.
+  - .NET w/C# (ADO.NET, EF Core, Dapper).
+  - Springboot w/ Java.
   - Node.js w/Express.
 
 * DataBases:
   - MySQL.
   - SQLServer
-  - Oracle.
+  - OracleDB.
   - MongoDB.
 
 * Web Styling:
-  - SASS
+  - Standard CSS.
+  - SASS.
   - Bootstrap.
   - TailwindCSS.
 
@@ -44,4 +45,5 @@ I'm bilingual in english and spanish, and I also speak between basic and interme
   - REST APIs.
   - Web Scraping w/Selenium.
   - QE with TestNG(Java).
-  - C/C++
+  - Serial Port and Arduino coding with C/C++
+  - REST APIs.
