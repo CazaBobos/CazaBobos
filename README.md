@@ -1,9 +1,9 @@
 ## CazaBobos - Software Dev
 ### About Me...
-Hi! Im Santiago, a Junior Software Developer and Software Engineering Student
+Hi! Im Santiago, a Junior Software Developer and Software Engineering Student based in Argentina,
 with knowledge on both desktop and fullstack web applications, Software QA and Automation.
 
-I'm currently in Vates Software as a consultant for Claro, primarily working with Java Backend. \
+I'm currently working in the software industry for Vates Software as a consultant for Claro. \
 Aside from that, I also work on some personal projects, both for learning and commercial purposes.
 
 I'm bilingual in english and spanish, and I also speak between basic and intermediate german and portuguese.
