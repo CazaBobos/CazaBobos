@@ -13,7 +13,7 @@ I'm bilingual in english and spanish, and I also speak between basic and interme
 - Videogames. 
 - Economics. 
 - Music.
-- Helping others.
+- Teaching.
 - Languages.
 
 ### Skills...
