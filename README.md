@@ -1,6 +1,6 @@
-## CazaBobos - Software Dev
+## James G - Software Dev
 ### About Me...
-Hi! Im Santiago, a Junior Software Developer and Software Engineering Student based in Argentina,
+Hi! Im James, a Junior Software Developer and Software Engineering Student based in Argentina,
 with knowledge on both desktop and fullstack web applications, Software QA and Automation.
 
 I'm currently working in the software industry for Vates Software as a consultant for Claro. \
