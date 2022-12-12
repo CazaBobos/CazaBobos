@@ -3,10 +3,9 @@
 Hi! Im James. I'm a Software Developer and Software Engineering Student based in Argentina,
 with knowledge on both desktop and fullstack web applications, Software QA and Automation.
 
-I'm currently working in the software industry for Vates Software as a consultant for Claro. \
-Aside from that, I also work on some personal projects, both for learning and commercial purposes.
+I'm currently working in the software industry, while I also work on some personal projects, both for learning and commercial purposes.
 
-I'm bilingual in english and spanish, and I also speak between basic and intermediate german and portuguese.
+I'm bilingual in english and spanish, and I also speak german and portuguese.
 
 ### Interests...
 - Programming.
@@ -18,15 +17,14 @@ I'm bilingual in english and spanish, and I also speak between basic and interme
 
 ### Skills...
 * Frontend:
-  - HTML/Js
-  - ReactJs.
+  - React/NextJs.
   - Blazor/Razor Pages
   - WinForms.
   - Java Swing.
 
 * Backend:
   - .NET w/C# (ADO.NET, EF Core, Dapper).
-  - Springboot w/ Java.
+  - Spring w/ Java.
   - Node.js w/Express.
 
 * DataBases:
